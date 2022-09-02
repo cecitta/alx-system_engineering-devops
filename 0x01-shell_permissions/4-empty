@@ -1,1 +1,2 @@
-create empty file folder
+#!/bin/bash
+touch hello
