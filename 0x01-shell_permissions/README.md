@@ -1,1 +1,1 @@
-permission to owner folder
+excecute permission to owner
