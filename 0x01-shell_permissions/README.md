@@ -1,1 +1,1 @@
-excecute permission to owner
+multiple permissions folder
