@@ -1,1 +1,1 @@
- bye directory
+previous working directory
