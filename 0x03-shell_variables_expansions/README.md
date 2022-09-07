@@ -1,1 +1,1 @@
-12-combinations
+Write a script that prints a number with two decimal places
