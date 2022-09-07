@@ -1,1 +1,1 @@
-Write a script that prints a number with two decimal places
+Create a script that counts the number of directories in the PATH.
